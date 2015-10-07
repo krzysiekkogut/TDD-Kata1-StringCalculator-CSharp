@@ -1,1 +1,0 @@
-# TDDKata1StringCalculator
